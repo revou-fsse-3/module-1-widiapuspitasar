@@ -1,9 +1,3 @@
-:root {
-    --custom-title-style: {
-     
-    };
-  }
-
 
 body{
     background: #132743;
@@ -318,7 +312,7 @@ footer {
     
     iframe {
       width: 100%;
-      height: 300px;
+      max-height: 300px;
     }
 
     .flex-container{
