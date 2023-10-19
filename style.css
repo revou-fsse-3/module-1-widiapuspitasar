@@ -362,11 +362,3 @@ footer {
       }
       
   }
-
-  @media screen and (max-width: 1268px) {
-    iframe {
-        width: 80%;
-        height: 500px;
-      }
-
-  }
