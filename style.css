@@ -3,7 +3,6 @@ body{
     background: #132743;
 }
 
-
 /* section navbar */
 
 nav {
@@ -53,7 +52,6 @@ nav.sticky {
     border-radius: 10px;
 }
 
-
 .home-title {
     color: white;
     text-align: center;
@@ -63,9 +61,7 @@ nav.sticky {
     text-shadow: 2px 2px 4px #000;
     padding-top: 100px;
     padding-bottom: 20px;
- 
 }
-
 
 .carousel-item img{
     width: 100%;
@@ -101,7 +97,6 @@ nav.sticky {
     padding: 10px;
     background-color: #38598b;
 }
-
 
 .about-page h2{
     font-weight: bold;
@@ -254,8 +249,6 @@ iframe {
     width: 80%;
     height: 30rem;
 }
-
-
 
 /* Membuat teks hak cipta lebih kecil */
 footer p {
