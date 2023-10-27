@@ -17,7 +17,7 @@
 ## Profile
 Hello, I'm **Widia**, a software engineering candidate 😊.
 
-![Widia Photo](assets\img.jpeg)
+![alt text](https://github.com/revou-fsse-3/module-1-widiapuspitasar/blob/main/assets/img.jpeg?raw=true)
 
 I am a graduate in Biology from IPB University. Currently, I am not employed and want to focus on learning to switch careers to the field of software engineering. I have previously attended a bootcamp for data analysis, but over time, I have become very interested in learning about software engineering, so I joined a bootcamp at Revou.
 
